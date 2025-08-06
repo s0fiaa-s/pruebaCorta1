@@ -1,0 +1,14 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+
+    margin: auto;
+    max-width: 400px;
+    font-size: 10px;
+    font-family: monospace;
+}

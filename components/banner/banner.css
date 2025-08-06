@@ -1,8 +1,8 @@
-.div-splash {
+.div-banner {
 
     width: 100%;
     height: 100vh;
-    background-image: url(../../assets/images/Splash.png);
+    background-image: url(../../assets/images/loading.png);
     background-size: cover;
     background-position: top;
 
@@ -12,7 +12,7 @@
 
 }
 
-.div-splash span {
+.div-banner span {
 
     grid-row: 2/3;
 
@@ -22,7 +22,7 @@
 
 }
 
-.div-splash .lg-boton {
+.div-banner .a-boton {
 
     grid-row: 3/4;
     text-decoration: none;
