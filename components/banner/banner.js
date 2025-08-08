@@ -4,7 +4,7 @@ export function banner(){
     div.className = "div-banner";
 
     let span = document.createElement ('span');
-    span.textContent = "Geetta.";
+    span.textContent = "Geeta.";
     div.appendChild(span);
 
     let aBoton = document.createElement ('a');
